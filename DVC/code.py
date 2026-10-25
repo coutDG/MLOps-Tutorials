@@ -4,9 +4,9 @@ import pandas as pd
 
 
 data = {
-    "Name": ["Aarav", "Ananya", "Rohan", "Priya", "Kabir", "Meera", "Arjun", "Isha", "Vikram", "Neha"],
-    "Age": [25, 28, 22, 30, 27, 24, 32, 26, 29, 23],
-    "City": ["Delhi", "Mumbai", "Pune", "Chennai", "Jaipur", "Kolkata", "Bengaluru", "Hyderabad", "Ahmedabad", "Lucknow"],
+    "Name": ["Aarav", "Ananya", "Rohan", "Priya", "Kabir", "Meera", "Arjun", "Isha", "Vikram", "Neha", "Rahul"],
+    "Age": [25, 28, 22, 30, 27, 24, 32, 26, 29, 23, 31],
+    "City": ["Delhi", "Mumbai", "Pune", "Chennai", "Jaipur", "Kolkata", "Bengaluru", "Hyderabad", "Ahmedabad", "Lucknow", "Chandigarh"],
 }
 
 df = pd.DataFrame(data)
