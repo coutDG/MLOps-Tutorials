@@ -1,0 +1,9 @@
+Class and obj
+class attributes and methods
+Everything in python is an object
+
+Advantage :- 
+    You can create your own datatype
+    Code reusability 
+    debugging
+    easy to colab
