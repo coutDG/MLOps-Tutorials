@@ -1,3 +1,5 @@
 1. Create code.py and add code to it
 2. Do a git add commit push 
 3. Install dvc
+4. Create bucket s3
+5. dvc remote add 
