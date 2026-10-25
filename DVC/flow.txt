@@ -1,0 +1,2 @@
+1. Create code.py and add code to it
+2. Do a git add commit push 
