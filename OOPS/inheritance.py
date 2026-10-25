@@ -8,11 +8,11 @@ class ModelDeployment:
 
 class DockerDeployment(ModelDeployment):
     def __init__(self, model_name, version , image_name):
-        super().__init__(model_name , version)
+        super().__init__(model_name , version) #calling a whole constructor
         self.image_name = image_name
         
     def deploy(self):
-        super().deploy()
+        super().deploy() #calling the whole method of parent
         print(f"Starting container from image {self.image_name}")
 
 
